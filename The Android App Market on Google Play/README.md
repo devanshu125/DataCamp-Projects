@@ -1,4 +1,4 @@
-# The-Android-App-Market-on-Google-Play
+# The-Android-App-Market-on-Google-Play:iphone:
 Did a comprehensive analysis of the Android App market by comparing over ten thousand apps in Google Play across different categories. 
 
 The [data](https://www.kaggle.com/lava18/google-play-store-apps) for this project was scraped from the [Google Play](https://play.google.com/store/apps) website.
