@@ -1,4 +1,4 @@
-# The-GitHub-History-of-the-Scala-Language
+# The-GitHub-History-of-the-Scala-Language:computer:
 Exploring development history of Scala in Git and GitHub.
 
 Datasets
