@@ -22,4 +22,5 @@ Did a comprehensive analysis of the Android App market by comparing over ten tho
 ## 7. [The GitHub History of the Scala Language](https://github.com/devanshu125/DataCamp-Projects/tree/master/The%20GitHub%20History%20of%20the%20Scala%20Language):computer:
 Exploring development history of Scala in Git and GitHub.
 
-
+## 8. [Bad passwords and the NIST guidelines](https://github.com/devanshu125/DataCamp-Projects/tree/master/Bad%20passwords%20and%20the%20NIST%20guidelines):closed_lock_with_key:
+Checking what passwords fail to confirm the National Institute of Standards and Technology guidelines.
